@@ -24,3 +24,10 @@ Most of them like width, wide, height should work fine, when you change somethin
 Some of them will not work like this.
 
 Some dimensions are still hardcoded (pcb legs positions) and need to be amended in main files.
+
+__Thingiverse__
+
+You can see ready product and download STL files for 3D printing from Thingiverse http://www.thingiverse.com/thing:628929
+
+__License__
+
